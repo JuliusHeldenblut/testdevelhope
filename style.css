@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+   overflow: hidden;
+}
+:root {
+    --body-bg: #F5F5FB;
+    --side-bg: #FFFFFF;
+    --box-bg: #C4C4C4;
+  
+}
+
+.sidebar1{
+    background-color: var(--side-bg);
+height: 100vh;
+width: 15%;
+}
+
+.main{
+  background-color: var(--body-bg);  
+  height: 100vh;
+  width: 60%;
+}
+
+.navbar2{
+    background-color: var(--side-bg);  
+    height:100vh;
+    width: 25%;
+  }
